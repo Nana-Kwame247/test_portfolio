@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+#particles-js {
+  height: 80%;
+  background-color: #a2c1d6;
+}
+
+.section-about {
+  margin-top: 50px;
+}
